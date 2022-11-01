@@ -114,10 +114,4 @@ const slider = function () {
 };
 slider();
 
-// let downbtn = document.querySelector(".btn_position");
-// downbtn.addEventListener("click", () => {
-//   window.scrollTo({
-//     top: document.querySelector("#aboutme").offsetTop,
-//     behavior: "smooth",
-//   });
-// });
+
